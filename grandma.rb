@@ -8,7 +8,7 @@ def speak_to_grandma
     puts "HUH?! SPEAK UP, SONNY!"
   elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  else "HUH?! SPEAK UP, SONNY!"
+  else "I LOVE YOU GRANDMA!"
 end
 
 
