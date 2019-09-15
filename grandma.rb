@@ -10,6 +10,9 @@ def speak_to_grandma(string)
   else "I LOVE YOU GRANDMA!"
 end
 
+x = 1
+y = 2
+x + y == 3
 
 speak_to_grandma("I LOVE YOU GRANDMA!")
 speak_to_grandma("Hi Nan, how are you?")
