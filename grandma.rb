@@ -1,4 +1,4 @@
-def speak_to_grandma
+def speak_to_grandma(string)
   speak_to_grandma = "I LOVE YOU GRANDMA!"
   if speak_to_grandma == "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
